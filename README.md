@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://komarev.com/ghpvc/?username=dewonkun&label=Ziyaretçi%20Sayısı&color=0066ff" alt="dewonkun" />
 
 <p align="center">
     <a href="https://instagram.com/dewonkun" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -11,4 +12,4 @@
       <img src="https://lanyard-profile-readme.vercel.app/api/289425704305819660">
    </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=dewonkun&label=Ziyaretçi%20Sayısı&color=0066ff" alt="dewonkun" />
+
